@@ -39,4 +39,4 @@ We can try either different models and different parameter sampling for the hype
 
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-![]https://github.com/DAWHEEL/Optimizing_ML_Pipeline/blob/main/Delete.PNG)
+![](https://github.com/DAWHEEL/Optimizing_ML_Pipeline/blob/main/Delete.PNG)
