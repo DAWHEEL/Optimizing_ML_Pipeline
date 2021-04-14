@@ -35,8 +35,8 @@ The AutoML had about ~ 0.01 better accuaracy. THe main difference appears to be 
 
 ## Future work
 **What are some areas of improvement for future experiments? Why might these improvements help the model?**
-We can try either different models and different parameter sampling for the hyperdrive experiment.  The parameter sampling was conservative, so not clear we could not due better given more computation.
+We can try either different models and different parameter sampling for the hyperdrive experiment.  The parameter sampling was conservative, so not clear we could not due better given more computation.  For example we can use Grid sampling which will exhaustively examine the search space, or we can try Bayesain which will pick samples based on previous runs improvements to make further improvements.
 
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-Previously deleted
+![]https://github.com/DAWHEEL/Optimizing_ML_Pipeline/blob/main/Delete.jpg)
